@@ -1,0 +1,2153 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DoAnWeb-KetNoiViecLam.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DoAnWeb-KetNoiViecLam.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\ajax\\marker.json",
+      "PackagePath": "staticwebassets\\ajax\\marker.json"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ace-responsive-menu.css",
+      "PackagePath": "staticwebassets\\css\\ace-responsive-menu.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\animated-overlay.gif",
+      "PackagePath": "staticwebassets\\css\\animated-overlay.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\blank.gif",
+      "PackagePath": "staticwebassets\\css\\blank.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\bootstrap-select.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-select.min.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\dashbord_navitaion.css",
+      "PackagePath": "staticwebassets\\css\\dashbord_navitaion.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\css\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\googlemap.css",
+      "PackagePath": "staticwebassets\\css\\googlemap.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\images\\bx_loader.gif",
+      "PackagePath": "staticwebassets\\css\\images\\bx_loader.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\images\\controls.png",
+      "PackagePath": "staticwebassets\\css\\images\\controls.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\isotope.css",
+      "PackagePath": "staticwebassets\\css\\isotope.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\lightbox\\close.png",
+      "PackagePath": "staticwebassets\\css\\lightbox\\close.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\lightbox\\lightbox.css",
+      "PackagePath": "staticwebassets\\css\\lightbox\\lightbox.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\lightbox\\loading.gif",
+      "PackagePath": "staticwebassets\\css\\lightbox\\loading.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\lightbox\\next.png",
+      "PackagePath": "staticwebassets\\css\\lightbox\\next.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\lightbox\\prev.png",
+      "PackagePath": "staticwebassets\\css\\lightbox\\prev.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\close.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\close.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\close@2x.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\close@2x.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\loading.gif",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\loading.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\loading@2x.gif",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\loading@2x.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\next.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\next.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\next@2x.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\next@2x.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\prev.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\prev.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\nivolightbox-themes\\default\\prev@2x.png",
+      "PackagePath": "staticwebassets\\css\\nivolightbox-themes\\default\\prev@2x.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\slider.css",
+      "PackagePath": "staticwebassets\\css\\slider.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ud-custom-spacing.css",
+      "PackagePath": "staticwebassets\\css\\ud-custom-spacing.css"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\raster.png",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\raster.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\raster@2x.png",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\raster@2x.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\raster_dot.png",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\raster_dot.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\raster_dot@2x.png",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\raster_dot@2x.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\ytp-regular.eot",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\ytp-regular.eot"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\ytp-regular.ttf",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\ytp-regular.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\css\\ytplayer\\ytp-regular.woff",
+      "PackagePath": "staticwebassets\\css\\ytplayer\\ytp-regular.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.eot"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.html"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\flaticon_freelancer.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_freelancer.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\fonts\\webfonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-10.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-10.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-10.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-10.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-11.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-11.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-11.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-11.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-12.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-12.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-13.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-13.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-14.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-14.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-15.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-15.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-2.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-3.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-4.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-4.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-5.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-5.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-6.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-6.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-6.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-7.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-7.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-7.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-8.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-8.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-8.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-9.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\about-9.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\about-9.png",
+      "PackagePath": "staticwebassets\\images\\about\\about-9.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-10.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-10.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-11.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-11.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-12.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-12.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-2.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-3.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-4.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-5.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-6.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-7.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-8.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\element-9.png",
+      "PackagePath": "staticwebassets\\images\\about\\element-9.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\employee-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\employee-single-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\employee-single-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\employee-single-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\employee-single-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\employee-single-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\employee-single-4.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\employee-single-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\happy-client.png",
+      "PackagePath": "staticwebassets\\images\\about\\happy-client.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home12-hero-img.png",
+      "PackagePath": "staticwebassets\\images\\about\\home12-hero-img.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home3-hero-img-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home3-hero-img-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home3-hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home3-hero-img-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home3-hero-img-3.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home3-hero-img-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home4-hero-element-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\home4-hero-element-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home5-hero-element-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\home5-hero-element-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home6-hero-element-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\home6-hero-element-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home6-hero-element-2.png",
+      "PackagePath": "staticwebassets\\images\\about\\home6-hero-element-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home6-hero-element-3.png",
+      "PackagePath": "staticwebassets\\images\\about\\home6-hero-element-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home6-hero-img-1.png",
+      "PackagePath": "staticwebassets\\images\\about\\home6-hero-img-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home7-hero-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home7-hero-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\home8-hero-1.jpg",
+      "PackagePath": "staticwebassets\\images\\about\\home8-hero-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\mobile-app-2.png",
+      "PackagePath": "staticwebassets\\images\\about\\mobile-app-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\mobile-app.png",
+      "PackagePath": "staticwebassets\\images\\about\\mobile-app.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\about\\verified-freelancer.png",
+      "PackagePath": "staticwebassets\\images\\about\\verified-freelancer.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\apple-touch-icon-180x180.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-180x180.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\apple-touch-icon-60x60.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-60x60.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-about-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-about-banner.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-employee-list-v1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-employee-list-v1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-job-list-v1.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-job-list-v1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-signle-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-signle-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-v1-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-v1-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-v2-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-v2-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-v3-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-v3-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-v4-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-v4-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\cta-service-v6-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\cta-service-v6-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home11-cta-1.png",
+      "PackagePath": "staticwebassets\\images\\background\\home11-cta-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home11-cta-2.png",
+      "PackagePath": "staticwebassets\\images\\background\\home11-cta-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home11-cta-3.png",
+      "PackagePath": "staticwebassets\\images\\background\\home11-cta-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home12-cta-1.png",
+      "PackagePath": "staticwebassets\\images\\background\\home12-cta-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home12-hero-bg.png",
+      "PackagePath": "staticwebassets\\images\\background\\home12-hero-bg.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home2-hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\home2-hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home3-bg.png",
+      "PackagePath": "staticwebassets\\images\\background\\home3-bg.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home3-cta-last.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\home3-cta-last.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home6-newslatter-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\home6-newslatter-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\background\\home8-hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\background\\home8-hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\author-1.png",
+      "PackagePath": "staticwebassets\\images\\blog\\author-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\author-md-1.png",
+      "PackagePath": "staticwebassets\\images\\blog\\author-md-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-11.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-11.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-12.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-12.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-13.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-13.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-14.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-14.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-15.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-15.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-16.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-16.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-17.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-17.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-18.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-18.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-19.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-19.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-s-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-s-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-s-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-s-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-s-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-s-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-4.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\blog-single-6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-single-6.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\comments-1.png",
+      "PackagePath": "staticwebassets\\images\\blog\\comments-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\blog\\comments-2.png",
+      "PackagePath": "staticwebassets\\images\\blog\\comments-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\dark-nav-icon.svg",
+      "PackagePath": "staticwebassets\\images\\dark-nav-icon.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\dashboard-navicon.svg",
+      "PackagePath": "staticwebassets\\images\\dashboard-navicon.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\desktop-nav-menu-dark.svg",
+      "PackagePath": "staticwebassets\\images\\desktop-nav-menu-dark.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\desktop-nav-menu-white.svg",
+      "PackagePath": "staticwebassets\\images\\desktop-nav-menu-white.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\gallery\\g-1.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\gallery\\g-1.png",
+      "PackagePath": "staticwebassets\\images\\gallery\\g-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\gallery\\g-2.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\gallery\\g-3.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\gallery\\g-4.jpg",
+      "PackagePath": "staticwebassets\\images\\gallery\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\header-logo-dark.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo-dark.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\header-logo.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\header-logo2.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo2.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\header-logo3.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo3.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\header-logo4.svg",
+      "PackagePath": "staticwebassets\\images\\header-logo4.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\home\\home-1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\home-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\home\\home-2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\home-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\home\\home-3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\home-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\icon.png",
+      "PackagePath": "staticwebassets\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\icon\\all-filter-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icon\\all-filter-icon.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\icon\\error-page-img.svg",
+      "PackagePath": "staticwebassets\\images\\icon\\error-page-img.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\icon\\switcher-circle-btn.svg",
+      "PackagePath": "staticwebassets\\images\\icon\\switcher-circle-btn.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms1.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms2.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms3.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms4.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms5.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms6.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms7.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\inbox\\ms8.png",
+      "PackagePath": "staticwebassets\\images\\inbox\\ms8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\category-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\category-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\category-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\category-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\category-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\category-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\category-4.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\category-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\category-5.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\category-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-4.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-5.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-6.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-6.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-7.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-7.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\ct-s-8.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\ct-s-8.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-10.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-10.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-11.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-11.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-12.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-12.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-13.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-13.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-14.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-14.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-15.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-15.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-16.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-16.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-17.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-17.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-18.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-18.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-19.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-19.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-20.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-20.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-21.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-21.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-22.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-22.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-4.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-5.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-6.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-6.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-7.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-7.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-8.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-8.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\g-9.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\g-9.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\pro-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\pro-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\pro-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\pro-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\pro-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\pro-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\pro-4.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\pro-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-4.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-s-1.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-s-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-s-2.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-s-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\listings\\service-details-s-3.jpg",
+      "PackagePath": "staticwebassets\\images\\listings\\service-details-s-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\mobile-dark-nav-icon.svg",
+      "PackagePath": "staticwebassets\\images\\mobile-dark-nav-icon.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\1.png",
+      "PackagePath": "staticwebassets\\images\\partners\\1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\10.png",
+      "PackagePath": "staticwebassets\\images\\partners\\10.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\11.png",
+      "PackagePath": "staticwebassets\\images\\partners\\11.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\12.png",
+      "PackagePath": "staticwebassets\\images\\partners\\12.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\13.png",
+      "PackagePath": "staticwebassets\\images\\partners\\13.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\14.png",
+      "PackagePath": "staticwebassets\\images\\partners\\14.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\15.png",
+      "PackagePath": "staticwebassets\\images\\partners\\15.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\16.png",
+      "PackagePath": "staticwebassets\\images\\partners\\16.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\17.png",
+      "PackagePath": "staticwebassets\\images\\partners\\17.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\18.png",
+      "PackagePath": "staticwebassets\\images\\partners\\18.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\19.png",
+      "PackagePath": "staticwebassets\\images\\partners\\19.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\2.png",
+      "PackagePath": "staticwebassets\\images\\partners\\2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\20.png",
+      "PackagePath": "staticwebassets\\images\\partners\\20.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\21.png",
+      "PackagePath": "staticwebassets\\images\\partners\\21.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\22.png",
+      "PackagePath": "staticwebassets\\images\\partners\\22.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\3.png",
+      "PackagePath": "staticwebassets\\images\\partners\\3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\4.png",
+      "PackagePath": "staticwebassets\\images\\partners\\4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\5.png",
+      "PackagePath": "staticwebassets\\images\\partners\\5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\6.png",
+      "PackagePath": "staticwebassets\\images\\partners\\6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\7.png",
+      "PackagePath": "staticwebassets\\images\\partners\\7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\8.png",
+      "PackagePath": "staticwebassets\\images\\partners\\8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\partners\\9.png",
+      "PackagePath": "staticwebassets\\images\\partners\\9.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\preloader.gif",
+      "PackagePath": "staticwebassets\\images\\preloader.gif"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\1-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\1-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\1-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\2-1.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\2-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\2-2.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\2-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\2-3.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\2-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\listing\\2-4.jpg",
+      "PackagePath": "staticwebassets\\images\\resource\\listing\\2-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\map-marker-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\map-marker-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\resource\\map-marker.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\mapmarker.png",
+      "PackagePath": "staticwebassets\\images\\resource\\mapmarker.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\notif-1.png",
+      "PackagePath": "staticwebassets\\images\\resource\\notif-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\notif-2.png",
+      "PackagePath": "staticwebassets\\images\\resource\\notif-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\notif-3.png",
+      "PackagePath": "staticwebassets\\images\\resource\\notif-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\notif-4.png",
+      "PackagePath": "staticwebassets\\images\\resource\\notif-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\notif-5.png",
+      "PackagePath": "staticwebassets\\images\\resource\\notif-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\resource\\user.png",
+      "PackagePath": "staticwebassets\\images\\resource\\user.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\4.png",
+      "PackagePath": "staticwebassets\\images\\shop\\4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\5.png",
+      "PackagePath": "staticwebassets\\images\\shop\\5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\6.png",
+      "PackagePath": "staticwebassets\\images\\shop\\6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\7.png",
+      "PackagePath": "staticwebassets\\images\\shop\\7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\8.png",
+      "PackagePath": "staticwebassets\\images\\shop\\8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\9.png",
+      "PackagePath": "staticwebassets\\images\\shop\\9.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\cart-1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\cart-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\cart-2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\cart-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\cart-3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\cart-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\shop-single-1.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-single-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\shop-single-2.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-single-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\shop-single-3.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-single-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\shop-single-4.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-single-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\shop\\shop-single-5.png",
+      "PackagePath": "staticwebassets\\images\\shop\\shop-single-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-4.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-5.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-6.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-7.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-7.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-8.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-8.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\client-single.png",
+      "PackagePath": "staticwebassets\\images\\team\\client-single.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\ea-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\ea-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\ea-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\ea-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\ea-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\ea-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\ea-4.png",
+      "PackagePath": "staticwebassets\\images\\team\\ea-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\employee-single.png",
+      "PackagePath": "staticwebassets\\images\\team\\employee-single.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-4.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-5.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-6.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-6.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-d-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-d-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-m-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-m-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-m-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-m-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-m-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-m-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-m-4.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-m-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-s-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-s-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-s-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-s-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-s-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-s-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\fl-s-4.png",
+      "PackagePath": "staticwebassets\\images\\team\\fl-s-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\home12-img-1.png",
+      "PackagePath": "staticwebassets\\images\\team\\home12-img-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\home12-img-2.png",
+      "PackagePath": "staticwebassets\\images\\team\\home12-img-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\home12-img-3.png",
+      "PackagePath": "staticwebassets\\images\\team\\home12-img-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\job-single.png",
+      "PackagePath": "staticwebassets\\images\\team\\job-single.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\team\\team-5.jpg",
+      "PackagePath": "staticwebassets\\images\\team\\team-5.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\1.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\2.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonials\\3.jpg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testi-1.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testi-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testi-2.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testi-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testi-3.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testi-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testi-4.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testi-4.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testi-5.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testi-5.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testimonial-2.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testimonial-2.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\testimonials\\testimonial-3.png",
+      "PackagePath": "staticwebassets\\images\\testimonials\\testimonial-3.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\vector-img\\left-top.png",
+      "PackagePath": "staticwebassets\\images\\vector-img\\left-top.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\vector-img\\right-bottom.png",
+      "PackagePath": "staticwebassets\\images\\vector-img\\right-bottom.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\vector-img\\vector-service-v1.png",
+      "PackagePath": "staticwebassets\\images\\vector-img\\vector-service-v1.png"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\images\\white-nav-icon.svg",
+      "PackagePath": "staticwebassets\\images\\white-nav-icon.svg"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\ace-responsive-menu.js",
+      "PackagePath": "staticwebassets\\js\\ace-responsive-menu.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\chart-custome.js",
+      "PackagePath": "staticwebassets\\js\\chart-custome.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\dashboard-script.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-script.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\google-maps.js",
+      "PackagePath": "staticwebassets\\js\\google-maps.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\googlemaps1.js",
+      "PackagePath": "staticwebassets\\js\\googlemaps1.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\infobox.min.js",
+      "PackagePath": "staticwebassets\\js\\infobox.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\isotop.js",
+      "PackagePath": "staticwebassets\\js\\isotop.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery-3.6.4.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.4.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery-migrate-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery-scrolltofixed-min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-scrolltofixed-min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery.ez-plus.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ez-plus.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\jquery.mmenu.all.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mmenu.all.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\markerclusterer.js",
+      "PackagePath": "staticwebassets\\js\\markerclusterer.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\owl.js",
+      "PackagePath": "staticwebassets\\js\\owl.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\parallax.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\pricing-slider.js",
+      "PackagePath": "staticwebassets\\js\\pricing-slider.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\pricing-table.js",
+      "PackagePath": "staticwebassets\\js\\pricing-table.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\scrollbalance.js",
+      "PackagePath": "staticwebassets\\js\\scrollbalance.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\single-counter.js",
+      "PackagePath": "staticwebassets\\js\\single-counter.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\swiper.js",
+      "PackagePath": "staticwebassets\\js\\swiper.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\.DS_Store",
+      "PackagePath": "staticwebassets\\sass\\.DS_Store"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\_mixin.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixin.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\_typography.scss",
+      "PackagePath": "staticwebassets\\sass\\_typography.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_alert.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_badge.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_badge.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_card.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_card.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_close.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_close.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_containers.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_containers.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_forms.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_functions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_functions.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_grid.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_helpers.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_images.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_images.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_modal.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_modal.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_nav.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_nav.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_popover.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_popover.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_progress.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_root.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_root.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_tables.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_transitions.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_type.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_type.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\_variables.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\bootstrap-sass\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\sass\\bootstrap-sass\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_about.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_alart.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_alart.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_animation.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_animation.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_blockquotes.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_blockquotes.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_blog.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_brand.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_brand.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_breadcumb.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_breadcumb.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_btns.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_btns.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_common.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_common.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_contact.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_contact.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_cta.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_cta.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_dashboard.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_dashboard.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_error.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_error.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_footer.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_form.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_form.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_funfact.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_funfact.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_gallery.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_header.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_hero.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_hero.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_iconbox.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_iconbox.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_listings.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_listings.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_menu.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_menu.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_message.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_message.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_navtabs.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_navtabs.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_package.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_package.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_progressbar.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_progressbar.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_shop.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_shop.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_slider.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_slider.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_social.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_social.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_tables.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_team.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_team.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_testimonial.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\project-sass\\_utility.scss",
+      "PackagePath": "staticwebassets\\sass\\project-sass\\_utility.scss"
+    },
+    {
+      "Id": "C:\\university\\web\\DoAnWeb-KetNoiViecLam-main\\DoAnWeb-KetNoiViecLam\\DoAnWeb-KetNoiViecLam\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DoAnWeb-KetNoiViecLam.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DoAnWeb-KetNoiViecLam.props",
+      "PackagePath": "build\\DoAnWeb-KetNoiViecLam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DoAnWeb-KetNoiViecLam.props",
+      "PackagePath": "buildMultiTargeting\\DoAnWeb-KetNoiViecLam.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DoAnWeb-KetNoiViecLam.props",
+      "PackagePath": "buildTransitive\\DoAnWeb-KetNoiViecLam.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
