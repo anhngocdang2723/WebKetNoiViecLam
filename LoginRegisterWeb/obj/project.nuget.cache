@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "psthLUe0nUuy+7hx7As2wi3dLL2GJaHMdvRt2k/PyplRW4VWOKCd3HXO5pNVucxg0ertu877frXxxEJndJXBkg==",
+  "dgSpecHash": "6f6Q24yjHv5/uH6pS/Pf9kHEGqlLZCfg+LG4scL0u+tyxReOl23tfK7ukFUt5NAzRdhngfTwmdWyQtTwHCHDhA==",
   "success": true,
-  "projectFilePath": "D:\\Edu\\3.1\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
+  "projectFilePath": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anhng\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\anhng\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

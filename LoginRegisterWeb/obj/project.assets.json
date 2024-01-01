@@ -11098,11 +11098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Edu\\3.1\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
+      "projectUniqueName": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
       "projectName": "LoginRegisterWeb",
-      "projectPath": "D:\\Edu\\3.1\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
+      "projectPath": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\LoginRegisterWeb.csproj",
       "packagesPath": "C:\\Users\\anhng\\.nuget\\packages\\",
-      "outputPath": "D:\\Edu\\3.1\\LoginRegisterWeb\\obj\\",
+      "outputPath": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anhng\\AppData\\Roaming\\NuGet\\NuGet.Config",
