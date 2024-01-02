@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hbH2xXJD/9sUTuNwtoRqbmULDNYJ2Cyugw9dpikxEhQ=",
+  "Hash": "DpJnesKZGwWTkiucKfF24Vlngvocf2Xy5qb8kgwCaV0=",
   "Source": "WebApp-KetNoiViecLam",
   "BasePath": "_content/WebApp-KetNoiViecLam",
   "Mode": "Default",
@@ -14977,6 +14977,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\scrollbalance.js"
+    },
+    {
+      "Identity": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\WebApp-KetNoiViecLam\\wwwroot\\js\\serviceStatus.js",
+      "SourceId": "WebApp-KetNoiViecLam",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\WebApp-KetNoiViecLam\\wwwroot\\",
+      "BasePath": "_content/WebApp-KetNoiViecLam",
+      "RelativePath": "js/serviceStatus.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\serviceStatus.js"
     },
     {
       "Identity": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\WebApp-KetNoiViecLam\\wwwroot\\js\\single-counter.js",

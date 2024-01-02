@@ -93,7 +93,7 @@ namespace WebApp_KetNoiViecLam.Controllers
             {
                 _context.Add(service);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("ManageService", "UserDashboard");
             }
 
             // Repopulate dropdowns in case of validation error
@@ -155,7 +155,7 @@ namespace WebApp_KetNoiViecLam.Controllers
                         throw;
                     }
                 }
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("ManageService", "UserDashboard");
             }
             ViewData["CategoryId"] = new SelectList(_context.Category, "CatId", "CatName", service.CategoryId);
             ViewData["SkillId"] = new SelectList(_context.Set<Skill>(), "SkillId", "SkillName", service.SkillId);

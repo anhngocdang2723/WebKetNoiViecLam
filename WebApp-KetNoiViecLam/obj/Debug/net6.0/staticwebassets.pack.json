@@ -3029,6 +3029,10 @@
       "PackagePath": "staticwebassets\\js\\scrollbalance.js"
     },
     {
+      "Id": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\WebApp-KetNoiViecLam\\wwwroot\\js\\serviceStatus.js",
+      "PackagePath": "staticwebassets\\js\\serviceStatus.js"
+    },
+    {
       "Id": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\WebApp-KetNoiViecLam\\wwwroot\\js\\single-counter.js",
       "PackagePath": "staticwebassets\\js\\single-counter.js"
     },

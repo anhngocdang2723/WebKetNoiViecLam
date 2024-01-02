@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Service>
+
+<tbody class="t-body">
+    @foreach (var item in Model.Where(s => s.Status == ServiceStatus.DaDuyet))
+    {
+        <tr>
+            <th class="dashboard-img-service" scope="row">
+                <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
+                    <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
+                        <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
+                    </div>
+                    <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
+                        <h4 class="list-title mb-0"><a href="@Url.Action("Details", new { id = item.ServiceId })">@item.ServiceTitle</a></h4>
+                        <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
+                            <li>@Html.DisplayFor(modelItem => item.ServiceDes)</li>
+                        </ul>
+                    </div>
+                </div>
+            </th>
+            <td class="align-top"><span class="fz15 fw400">@Html.DisplayFor(modelItem => item.Category.CatName)</span></td>
+            <td class="align-top"><span class="fz14 fw400">@string.Format("{0:0.00}VND/Fixed", item.Price)</span></td>
+            <td class="align-top">
+                <div class="d-flex">
+                    <a href="@Url.Action("Edit", new { id = item.ServiceId })" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
+                    <a href="@Url.Action("Delete", new { id = item.ServiceId })" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
+                </div>
+            </td>
+        </tr>
+    }
+</tbody>

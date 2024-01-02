@@ -482,7 +482,7 @@
                             </div>
                             <div class="col-lg-3">
                                 <div class="text-lg-end">
-                                    <a href="~/UserDashboard/AddService" class="ud-btn btn-dark default-box-shadow2">Add Service<i class="fal fa-arrow-right-long"></i></a>
+                                    <a href="~/Services/Create" class="ud-btn btn-dark default-box-shadow2">Add Service<i class="fal fa-arrow-right-long"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -492,11 +492,11 @@
                                     <div class="navtab-style1">
                                         <nav>
                                             <div class="nav nav-tabs mb30" id="nav-tab2" role="tablist">
-                                                <button class="nav-link active fw500 ps-0" id="nav-item1-tab" data-bs-toggle="tab" data-bs-target="#nav-item1" type="button" role="tab" aria-controls="nav-item1" aria-selected="true">Active Services</button>
-                                                <button class="nav-link fw500" id="nav-item2-tab" data-bs-toggle="tab" data-bs-target="#nav-item2" type="button" role="tab" aria-controls="nav-item2" aria-selected="false">Pending Services</button>
-                                                <button class="nav-link fw500" id="nav-item3-tab" data-bs-toggle="tab" data-bs-target="#nav-item3" type="button" role="tab" aria-controls="nav-item3" aria-selected="false">Ongoing Services</button>
-                                                <button class="nav-link fw500" id="nav-item4-tab" data-bs-toggle="tab" data-bs-target="#nav-item4" type="button" role="tab" aria-controls="nav-item4" aria-selected="false">Completed Services</button>
-                                                <button class="nav-link fw500" id="nav-item5-tab" data-bs-toggle="tab" data-bs-target="#nav-item5" type="button" role="tab" aria-controls="nav-item5" aria-selected="false">Canceled Services</button>
+                                                <button class="nav-link active fw500 ps-0" id="nav-item1-tab" data-bs-toggle="tab" data-bs-target="#nav-item1" type="button" role="tab" aria-controls="nav-item1" aria-selected="true" data-status="ChuaDuyet">Chưa duyệt</button>
+                                                <button class="nav-link fw500" id="nav-item2-tab" data-bs-toggle="tab" data-bs-target="#nav-item2" type="button" role="tab" aria-controls="nav-item2" aria-selected="false" data-status="DaDuyet">Đã duyệt</button>
+                                                <button class="nav-link fw500" id="nav-item3-tab" data-bs-toggle="tab" data-bs-target="#nav-item3" type="button" role="tab" aria-controls="nav-item3" aria-selected="false" data-status="DangThucHien">Đang thực hiện</button>
+                                                <button class="nav-link fw500" id="nav-item4-tab" data-bs-toggle="tab" data-bs-target="#nav-item4" type="button" role="tab" aria-controls="nav-item4" aria-selected="false" data-status="DaHoanThanh">Đã hoàn thành</button>
+                                                <button class="nav-link fw500" id="nav-item5-tab" data-bs-toggle="tab" data-bs-target="#nav-item5" type="button" role="tab" aria-controls="nav-item5" aria-selected="false" data-status="KhongDuyet">Không được duyệt</button>
                                             </div>
                                         </nav>
                                         <div class="tab-content" id="nav-tabContent">
@@ -511,133 +511,9 @@
                                                                 <th scope="col">Actions</th>
                                                             </tr>
                                                         </thead>
-                                                        <tbody class="t-body">
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-2.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-3.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-4.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-5.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
+
+                                                        @await Component.InvokeAsync("UserManageService_ChuaDuyet")
+
                                                     </table>
                                                     <div class="mbp_pagination text-center mt30">
                                                         <ul class="page_navigation">
@@ -672,133 +548,9 @@
                                                                 <th scope="col">Actions</th>
                                                             </tr>
                                                         </thead>
-                                                        <tbody class="t-body">
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-2.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-3.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-4.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-5.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
+
+                                                        @await Component.InvokeAsync("UserManageService_DaDuyet")
+
                                                     </table>
                                                     <div class="mbp_pagination text-center mt30">
                                                         <ul class="page_navigation">
@@ -833,133 +585,9 @@
                                                                 <th scope="col">Actions</th>
                                                             </tr>
                                                         </thead>
-                                                        <tbody class="t-body">
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-2.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-3.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-4.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-5.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
+
+                                                        @await Component.InvokeAsync("UserManageService_DangThucHien")
+
                                                     </table>
                                                     <div class="mbp_pagination text-center mt30">
                                                         <ul class="page_navigation">
@@ -994,133 +622,9 @@
                                                                 <th scope="col">Actions</th>
                                                             </tr>
                                                         </thead>
-                                                        <tbody class="t-body">
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-2.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-3.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-4.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-5.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
+
+                                                        @await Component.InvokeAsync("UserManageService_DaHoanThanh")
+
                                                     </table>
                                                     <div class="mbp_pagination text-center mt30">
                                                         <ul class="page_navigation">
@@ -1155,133 +659,9 @@
                                                                 <th scope="col">Actions</th>
                                                             </tr>
                                                         </thead>
-                                                        <tbody class="t-body">
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-2.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-3.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-4.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                            <tr>
-                                                                <th class="dashboard-img-service" scope="row">
-                                                                    <div class="listing-style1 list-style d-block d-xl-flex align-items-start border-0 mb-0">
-                                                                        <div class="list-thumb flex-shrink-0 bdrs4 mb10-lg">
-                                                                            <img class="w-100" src="~/images/listings/g-5.jpg" alt="">
-                                                                        </div>
-                                                                        <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                                                                            <h6 class="list-title mb-0"><a href="page-services-single.html">I will design modern websites in figma or adobe xd</a></h6>
-                                                                            <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
-                                                                                <li>Delievred with in a day</li>
-                                                                                <li>Delievry Time Descreased</li>
-                                                                                <li>Upload apps to Stores</li>
-                                                                            </ul>
-                                                                        </div>
-                                                                    </div>
-                                                                </th>
-                                                                <td class="align-top"><span class="fz15 fw400">Web & App Design</span></td>
-                                                                <td class="align-top"><span class="fz14 fw400">$500.00/Fixed</span></td>
-                                                                <td class="align-top">
-                                                                    <div class="d-flex">
-                                                                        <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
-                                                                        <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
-                                                                    </div>
-                                                                </td>
-                                                            </tr>
-                                                        </tbody>
+
+                                                        @await Component.InvokeAsync("UserManageService_KDuocDuyet")
+
                                                     </table>
                                                     <div class="mbp_pagination text-center mt30">
                                                         <ul class="page_navigation">
@@ -1361,5 +741,7 @@
     <script src="~/js/dashboard-script.js"></script>
     <!-- Custom script for all pages -->
     <script src="~/js/script.js"></script>
+
+    <script src="~/js/serviceStatus.js"></script>
 </body>
 </html>

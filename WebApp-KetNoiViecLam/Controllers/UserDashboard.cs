@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebApp_KetNoiViecLam.Data;
+using WebApp_KetNoiViecLam.Models;
 
 namespace WebApp_KetNoiViecLam.Controllers
 {
@@ -40,5 +41,13 @@ namespace WebApp_KetNoiViecLam.Controllers
         {
             return View();
         }
+
+        //JS lay status DV
+        public IActionResult GetServicesByStatus(ServiceStatus status)
+        {
+            var services = _context.Service.Where(s => s.Status == status).ToList();
+            return PartialView("_ServicePartial", services);
+        }
+
     }
 }
