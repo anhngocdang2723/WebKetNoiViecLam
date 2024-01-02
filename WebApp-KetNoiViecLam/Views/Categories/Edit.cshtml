@@ -1,0 +1,55 @@
+﻿@model WebApp_KetNoiViecLam.Models.Category
+
+@{
+    ViewData["Title"] = "Sửa thông tin";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h1>Sửa thông tin</h1>
+
+<h4>Danh mục</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CatId" />
+            <div class="form-group">
+                <label asp-for="CatName" class="control-label"></label>
+                <input asp-for="CatName" class="form-control" />
+                <span asp-validation-for="CatName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Level" class="control-label"></label>
+                <input asp-for="Level" class="form-control" />
+                <span asp-validation-for="Level" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParentId" class="control-label"></label>
+                <input asp-for="ParentId" class="form-control" />
+                <span asp-validation-for="ParentId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MenuOrder" class="control-label"></label>
+                <input asp-for="MenuOrder" class="form-control" />
+                <span asp-validation-for="MenuOrder" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="Lưu" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Quay lại danh sách</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

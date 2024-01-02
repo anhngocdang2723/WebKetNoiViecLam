@@ -1,0 +1,82 @@
+﻿@model WebApp_KetNoiViecLam.Models.ServiceViewModel
+
+<section class="pt-0 pb100">
+    <div class="container">
+        <div class="row align-items-center wow fadeInUp">
+            <div class="col-xl-3">
+                <div class="main-title mb30-lg">
+                    <h2 class="title">Dịch vụ phổ biến</h2>
+                    <p class="paragraph">Dịch vụ được xem nhiều nhất và bán chạy nhất mọi thời đại</p>
+                </div>
+            </div>
+            <div class="col-xl-9"></div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="navpill-style2">
+                    <div class="tab-content ha" id="pills-tabContent">
+                        <div class="tab-pane fade fz15 text show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
+                            <div class="row">
+                                @foreach (var service in Model.Services)
+                                {
+                                    <div class="col-sm-6 col-xl-3">
+                                        <div class="listing-style1 bdrs16">
+                                            <div class="list-thumb">
+                                                <img class="w-100" src="images/listings/g-1.jpg" alt="">
+                                                <a href="" class="listing-fav fz12"><span class="far fa-heart"></span></a>
+                                            </div>
+                                            <div class="list-content">
+                                                @foreach (var category in Model.Categories)
+                                                {
+                                                    if (category.CatId == service.CategoryId)
+                                                    {
+                                                        <p class="list-text body-color fz14 mb-1">@category.CatName</p>
+                                                    }
+                                                }
+                                                <h5 class="list-title"><a href="/Services/Details/@service.UserId">@service.ServiceTitle</a></h5>
+                                                @foreach (var review in Model.Reviews)
+                                                {
+                                                    if (review.UserId == service.UserId)
+                                                    {
+                                                        <div class="review-meta d-flex align-items-center">
+                                                            <i class="fas fa-star fz10 review-color me-2"></i>
+                                                            <p class="mb-0 body-color fz14"><span class="dark-color me-2">@review.Rating</span>94 reviews</p>
+                                                        </div>
+                                                    }
+                                                }
+                                                <hr class="my-2">
+                                                @foreach (var user in Model.Users)
+                                                {
+                                                    if (user.UserId == service.UserId)
+                                                    {
+                                                        <div class="list-meta d-flex justify-content-between align-items-center mt15">
+                                                            <a class="d-flex" href="">
+                                                                <span class="position-relative mr10">
+                                                                    <img class="rounded-circle wa" src="images/team/fl-s-1.png" alt="Freelancer Photo">
+                                                                    <span class="online-badges"></span>
+                                                                </span>
+                                                                <span class="fz14">@user.UserName</span>
+                                                            </a>
+                                                            <div class="budget">
+                                                                <p class="mb-0 body-color">Giá<span class="fz17 fw500 dark-color ms-1">@service.Price</span></p>
+                                                            </div>
+                                                        </div>
+                                                    }
+                                                }
+                                            </div>
+                                        </div>
+                                    </div>
+                                }
+                                <div class="col-lg-12">
+                                    <div class="text-center mt30">
+                                        <a class="ud-btn btn-light-thm bdrs60" href="/Services/ViewAllService">Xem thêm<i class="fal fa-arrow-right-long"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

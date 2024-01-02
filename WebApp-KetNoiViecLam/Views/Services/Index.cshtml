@@ -1,0 +1,78 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Service>
+
+@{
+    ViewData["Title"] = "Dịch vụ";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h1>Quản lý dịch vụ</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Category)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ServiceDes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Skill)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateCreated)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.User)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.CatName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ServiceDes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skill.SkillName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateCreated)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.Email)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ServiceId">Sửa</a> |
+                <a asp-action="Details1" asp-route-id="@item.ServiceId">Thông tin</a> |
+                <a asp-action="Delete" asp-route-id="@item.ServiceId">Xoá</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

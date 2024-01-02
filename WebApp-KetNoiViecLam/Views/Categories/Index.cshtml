@@ -1,0 +1,60 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h1>Quản lý danh mục</h1>
+
+<p>
+    <a asp-action="Create">Tạo mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CatName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Level)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ParentId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MenuOrder)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IsActive)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CatName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Level)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParentId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MenuOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsActive)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CatId">Sửa</a> |
+                <a asp-action="Details" asp-route-id="@item.CatId">Thông tin</a> |
+                <a asp-action="Delete" asp-route-id="@item.CatId">Ẩn</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

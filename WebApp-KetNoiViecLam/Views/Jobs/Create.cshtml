@@ -1,0 +1,66 @@
+﻿@model WebApp_KetNoiViecLam.Models.Job
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Admin.cshtml";
+}
+
+<h1>Create</h1>
+
+<h4>Job</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobTitle" class="control-label"></label>
+                <input asp-for="JobTitle" class="form-control" />
+                <span asp-validation-for="JobTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JobDes" class="control-label"></label>
+                <input asp-for="JobDes" class="form-control" />
+                <span asp-validation-for="JobDes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SkillId" class="control-label"></label>
+                <select asp-for="SkillId" class ="form-control" asp-items="ViewBag.SkillId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateCreated" class="control-label"></label>
+                <input asp-for="DateCreated" class="form-control" />
+                <span asp-validation-for="DateCreated" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Budget" class="control-label"></label>
+                <input asp-for="Budget" class="form-control" />
+                <span asp-validation-for="Budget" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Deadline" class="control-label"></label>
+                <input asp-for="Deadline" class="form-control" />
+                <span asp-validation-for="Deadline" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="UserId" class="control-label"></label>
+                <select asp-for="UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

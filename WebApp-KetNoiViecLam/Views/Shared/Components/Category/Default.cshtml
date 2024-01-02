@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Category>
+
+<div class="home1_style at-home2">
+    <div id="mega-menu">
+        <div class="text-center"><a class="btn-mega fw500 text-white" href="#"><span class="pr5 fz15 vam flaticon-menu"></span> Categories</a></div>
+        <ul class="menu ps-0">
+            @foreach (var cat in Model.Where(m => m.Level == 1).OrderBy(n => n.MenuOrder))
+            {
+                var Pid = cat.CatId;
+                var Scat = Model.Where(p => p.ParentId == Pid).OrderBy(p => p.MenuOrder).ToList();
+                <li>
+                    @if (Scat.Count == 0)
+                    {
+                        <a class="dropdown" href="#">
+                            <span class="menu-title">@cat.CatName</span>
+                        </a>
+                        @if (Scat.Count != 0)
+                        {
+                            <div class="drop-menu d-flex justify-content-between">
+                                <div class="one-third">
+                                    @foreach (var mcat in Scat)
+                                    {
+                                        <div class="h6 cat-title">@mcat.CatName</div>
+                                    }
+                                </div>
+                            </div>
+                        }
+                    }
+                </li>
+            }
+        </ul>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Job>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-6 col-xl-4">
+            <div class="job-list-style1 bdr1">
+                <div class="icon d-flex align-items-center mb20">
+                    <img class="wa" src="~/images/team/client-1.png" alt="">
+                    <h6 class="mb-0 text-thm ml20"><a href="/Jobs/Details/@item.UserId">@item.JobTitle</a></h6>
+                    <span class="fav-icon flaticon-star"></span>
+                </div>
+                <div class="details">
+                    <h5 class="mb20">@item.JobDes </h5>
+                    <p class="list-inline-item mb-3">@item.Budget</p>
+                    <p class="list-inline-item mb-3 bdrl1 pl15">@item.Deadline</p>
+                    <p class="list-inline-item mb-0 bdrl1 pl15">Expensive</p>
+                    <p class="list-inline-item mb-0 bdrl1 pl15">Remote</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>

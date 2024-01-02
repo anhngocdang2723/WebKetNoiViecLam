@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp-KetNoiViecLam", "WebApp-KetNoiViecLam.csproj", "{68CEF421-A3A7-44C5-8908-9835A0D6FD24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginRegisterWeb", "..\LoginRegisterWeb\LoginRegisterWeb.csproj", "{AB8892B5-424F-4178-BE01-68F58BC8F35E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68CEF421-A3A7-44C5-8908-9835A0D6FD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68CEF421-A3A7-44C5-8908-9835A0D6FD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68CEF421-A3A7-44C5-8908-9835A0D6FD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68CEF421-A3A7-44C5-8908-9835A0D6FD24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB8892B5-424F-4178-BE01-68F58BC8F35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB8892B5-424F-4178-BE01-68F58BC8F35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB8892B5-424F-4178-BE01-68F58BC8F35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB8892B5-424F-4178-BE01-68F58BC8F35E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABAFC225-2C55-4A05-81BE-3F8EC84472B5}
+	EndGlobalSection
+EndGlobal

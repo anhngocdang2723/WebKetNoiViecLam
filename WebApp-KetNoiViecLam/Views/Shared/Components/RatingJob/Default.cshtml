@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Job>
+
+
+<section class="pt-0 pb100">
+    <div class="container">
+        <div class="row align-items-center wow fadeInUp">
+            <div class="col-xl-3">
+                <div class="main-title mb30-lg">
+                    <h2 class="title">Top công việc</h2>
+                    <p class="paragraph">Công việc được quan tâm nhiều nhất trên trang web</p>
+                </div>
+            </div>
+            <div class="col-xl-9"></div>
+    <div class="row">
+        <div class="col-lg-12">
+        <div class="row align-items-center mb20">
+    </div>
+    <div class="row">
+        @foreach(var item in Model)
+        {
+        <div class="col-sm-6 col-xl-4">
+            <div class="job-list-style1 bdr1">
+                <div class="icon d-flex align-items-center mb20">
+                    <img class="wa" src="images/team/client-1.png" alt="">
+                    <h6 class="mb-0 text-thm ml20"><a href="/Jobs/Details/4">@item.JobTitle</a></h6>
+                    <span class="fav-icon flaticon-star"></span>
+                </div>
+                <div class="details">
+                    <h5 class="mb20">@item.JobDes </h5>
+                    <p class="list-inline-item mb-3">@item.Budget</p>
+                    <p class="list-inline-item mb-3 bdrl1 pl15">@item.Deadline</p>
+                    <p class="list-inline-item mb-0 bdrl1 pl15">Expensive</p>
+                    <p class="list-inline-item mb-0 bdrl1 pl15">Remote</p>
+                </div>
+            </div>
+        </div>
+        }
+    </div>
+    </div>
+    </div>
+        </div>
+        <div class="col-lg-12">
+            <div class="text-center mt30">
+                <a class="ud-btn btn-light-thm bdrs60" href="/Jobs/ViewAllJob">Xem thêm<i class="fal fa-arrow-right-long"></i></a>
+            </div>
+        </div>
+
+</div>
+</section>
