@@ -125,7 +125,7 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(service);
         }
 
-        // POST: Services/Edit/5
+        // POST: Services/Edit/5x
         // To protect from overposting attacks, enable the specific properties you want to bind to.
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -162,6 +162,47 @@ namespace WebApp_KetNoiViecLam.Controllers
             ViewData["UserId"] = new SelectList(_context.Set<User>(), "UserId", "Email", service.UserId);
             ViewData["Status"] = new SelectList(Enum.GetValues(typeof(ServiceStatus)), service.Status);
             return View(service);
+        }
+
+        //Btn phe duyet
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ToggleStatus(int id)
+        {
+            var service = await _context.Service.FindAsync(id);
+
+            if (service == null)
+            {
+                return NotFound();
+            }
+
+            // Chuyển đổi trạng thái
+            service.Status = (service.Status == ServiceStatus.ChuaDuyet) ? ServiceStatus.DaDuyet : ServiceStatus.ChuaDuyet;
+
+            _context.Update(service);
+            await _context.SaveChangesAsync();
+
+            // Không chuyển hướng, trở lại trang hiện tại
+            return RedirectToAction(nameof(Details), new { id });
+        }
+
+        //btn K phe duyet
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> ChangeStatusToKhongPheDuyet(int id)
+        {
+            var service = await _context.Service.FindAsync(id);
+
+            if (service == null)
+            {
+                return NotFound();
+            }
+
+            service.Status = ServiceStatus.KhongPheDuyet;
+            _context.Update(service);
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
         }
 
 

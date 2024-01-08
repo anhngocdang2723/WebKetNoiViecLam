@@ -10,7 +10,7 @@
                         <img class="w-100" src="~/images/listings/g-1.jpg" alt="">
                     </div>
                     <div class="list-content flex-grow-1 py-0 pl15 pl0-lg">
-                        <h4 class="list-title mb-0"><a href="@Url.Action("Details", new { id = item.ServiceId })">@item.ServiceTitle</a></h4>
+                        <h4 class="list-title mb-0"><a href="@Url.Action("Details", "Services", new { id = item.ServiceId })">@item.ServiceTitle</a></h4>
                         <ul class="list-style-type-bullet ps-3 dashboard-style mb-0">
                             <li>@Html.DisplayFor(modelItem => item.ServiceDes)</li>
                         </ul>

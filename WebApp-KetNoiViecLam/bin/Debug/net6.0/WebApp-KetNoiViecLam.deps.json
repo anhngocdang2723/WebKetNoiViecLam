@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v6.0": {
       "WebApp-KetNoiViecLam/1.0.0": {
         "dependencies": {
-          "LoginRegisterWeb": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.25",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.25",
           "Microsoft.AspNetCore.Identity.UI": "6.0.25",
@@ -2755,17 +2754,6 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
         }
-      },
-      "LoginRegisterWeb/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.25",
-          "Microsoft.AspNetCore.Identity.UI": "6.0.25",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
-        },
-        "runtime": {
-          "LoginRegisterWeb.dll": {}
-        }
       }
     }
   },
@@ -4398,11 +4386,6 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
-    },
-    "LoginRegisterWeb/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

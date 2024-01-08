@@ -1,8 +1,11 @@
-﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using WebApp_KetNoiViecLam.Data;
+using Microsoft.AspNetCore.Identity;
+
 var builder = WebApplication.CreateBuilder(args);
+
 builder.Services.AddDbContext<WebApp_KetNoiViecLamContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("WebApp_KetNoiViecLamContext") ?? throw new InvalidOperationException("Connection string 'WebApp_KetNoiViecLamContext' not found.")));
 

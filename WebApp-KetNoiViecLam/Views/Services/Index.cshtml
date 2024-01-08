@@ -68,11 +68,18 @@
                 @Html.DisplayFor(modelItem => item.User.Email)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ServiceId">Sửa</a> |
-                <a asp-action="Details1" asp-route-id="@item.ServiceId">Thông tin</a> |
-                <a asp-action="Delete" asp-route-id="@item.ServiceId">Xoá</a>
+                <form asp-action="ToggleStatus" asp-route-id="@item.ServiceId" method="post">
+                    <button type="submit" class="btn btn-primary">Chuyển đổi trạng thái</button>
+                </form>
+                <a asp-action="Details1" asp-route-id="@item.ServiceId">Xem Thông tin</a> |
+                @using (Html.BeginForm("ChangeStatusToKhongPheDuyet", "Services", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <input type="hidden" name="id" value="@item.ServiceId" />
+                    <button type="submit" class="icon btn btn-danger" data-bs-toggle="tooltip" data-bs-placement="top" title="Không Phê Duyệt">Không phê duyệt</button>
+                }
             </td>
         </tr>
-}
+    }
     </tbody>
 </table>

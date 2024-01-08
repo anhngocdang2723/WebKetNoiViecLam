@@ -4096,25 +4096,6 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "LoginRegisterWeb/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.23",
-          "Microsoft.AspNetCore.Identity.UI": "6.0.23",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.25",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "6.0.16"
-        },
-        "compile": {
-          "bin/placeholder/LoginRegisterWeb.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LoginRegisterWeb.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -11500,16 +11481,10 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "LoginRegisterWeb/1.0.0": {
-      "type": "project",
-      "path": "../LoginRegisterWeb/LoginRegisterWeb.csproj",
-      "msbuildProject": "../LoginRegisterWeb/LoginRegisterWeb.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "LoginRegisterWeb >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 6.0.25",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.25",
       "Microsoft.AspNetCore.Identity.UI >= 6.0.25",
@@ -11545,11 +11520,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\LoginRegisterWeb.csproj": {
-              "projectPath": "D:\\WebApp-KetNoiViecLam\\WebKetNoiViecLam\\LoginRegisterWeb\\LoginRegisterWeb.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

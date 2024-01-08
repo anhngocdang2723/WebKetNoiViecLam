@@ -220,7 +220,6 @@ namespace WebApp_KetNoiViecLam.Migrations
                         .HasColumnType("int");
 
                     b.Property<int>("Status")
-                        .HasMaxLength(50)
                         .HasColumnType("int");
 
                     b.Property<int>("UserId")

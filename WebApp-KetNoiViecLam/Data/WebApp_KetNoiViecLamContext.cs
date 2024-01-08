@@ -5,11 +5,12 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using WebApp_KetNoiViecLam.Models;
 
+
 namespace WebApp_KetNoiViecLam.Data
 {
     public class WebApp_KetNoiViecLamContext : DbContext
     {
-        public WebApp_KetNoiViecLamContext (DbContextOptions<WebApp_KetNoiViecLamContext> options)
+        public WebApp_KetNoiViecLamContext(DbContextOptions<WebApp_KetNoiViecLamContext> options)
             : base(options)
         {
         }
@@ -31,4 +32,5 @@ namespace WebApp_KetNoiViecLam.Data
         public DbSet<WebApp_KetNoiViecLam.Models.User>? User { get; set; }
 
     }
+
 }
