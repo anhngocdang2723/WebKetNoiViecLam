@@ -3,9 +3,14 @@
 namespace UserIdentity.Areas.Identity.Data
 
 {
+    public enum YourRoleEnum
+    {
+        Admin,
+        Freelancer,
+        Client
+    }
     public class ApplicationUser : IdentityUser
     {
-        public string? Name { get; set; }
-        public string? ProfilePicture { get; set; }
+        public string? Role { get; set; }
     }
 }

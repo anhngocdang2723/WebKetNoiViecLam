@@ -1,4 +1,9 @@
-﻿<!DOCTYPE html>
+﻿@* @using Microsoft.AspNetCore.Identity
+@using UserIdentity.Areas.Identity.Data
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager *@
+
+<!DOCTYPE html>
 <html dir="ltr" lang="en">
 <head>
     <meta charset="utf-8">
@@ -44,6 +49,66 @@
     <div class="wrapper ovh">
         <div class="preloader"></div>
         <!-- Main Header Nav -->
+
+@*         <header class="header-nav nav-homepage-style stricky main-menu border-0">
+            <!-- Ace Responsive Menu -->
+            <nav class="posr">
+                <div class="container posr">
+                    <div class="row align-items-center justify-content-between">
+                        <div class="col-auto px-0 px-xl-3">
+                            <div class="d-flex align-items-center justify-content-between">
+                                <div class="logos">
+                                    <a class="header-logo" href="index.html"><img src="~/images/header-logo.svg" alt="Header Logo"></a>
+                                </div>
+                                <!-- Responsive Menu Structure-->
+                                <ul id="respMenu" class="ace-responsive-menu" data-menu-style="horizontal">
+                                    <!-- Trang chủ -->
+                                    <li><a href="#">Trang chủ</a></li>
+                                    <!-- Duyệt công việc -->
+                                    <li>
+                                        <a href="#">Duyệt Công Việc</a>
+                                        <ul>
+                                            <li><a href="#">Dịch vụ</a></li>
+                                            <li><a href="#">Dự Án</a></li>
+                                            <li><a href="#">Xem Công Việc</a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- Người dùng -->
+                                    <li>
+                                        <a href="#">Người Dùng</a>
+                                        <ul>
+                                            <li><a href="#">Bảng Điều Khiển</a></li>
+                                            <li><a href="#">Nhân Viên</a></li>
+                                            <li><a href="#">Freelancer</a></li>
+                                            <li><a href="#">Trở Thành Người Bán</a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- Trang -->
+                                    <li>
+                                        <a href="#">Trang</a>
+                                        <ul>
+                                            <li><a href="#">Giới Thiệu</a></li>
+                                            <li><a href="#">Blog</a></li>
+                                            <li><a href="#">Cửa Hàng</a></li>
+                                            <li><a href="#">Liên Hệ</a></li>
+                                        </ul>
+                                    </li>
+                                    <!-- Liên Hệ -->
+                                    <li><a href="#">Liên Hệ</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-auto pe-0 pe-xl-3">
+                            <div class="d-flex align-items-center">
+                                <partial name="_LoginPartial" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+ *@
+
         <header class="header-nav nav-homepage-style stricky main-menu border-0">
             <!-- Ace Responsive Menu -->
             <nav class="posr">
@@ -196,6 +261,7 @@
                         </div>
                         <div class="col-auto pe-0 pe-xl-3">
                             <div class="d-flex align-items-center">
+                                <partial name="_LoginPartial" />
                             </div>
                         </div>
                     </div>

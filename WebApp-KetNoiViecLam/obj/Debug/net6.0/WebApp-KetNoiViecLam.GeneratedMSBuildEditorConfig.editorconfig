@@ -60,12 +60,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/HomeWeb/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVdlYlxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/HomeWeb/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVdlYlxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Jobs/Create.cshtml]
@@ -184,6 +184,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2VydmljZVNpbmdsZVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/Components/UserManageJob/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlck1hbmFnZUpvYlxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/Components/UserManageService_ChuaDuyet/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlck1hbmFnZVNlcnZpY2VfQ2h1YUR1eWV0XERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -218,6 +222,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/_Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/_UserDashboard.cshtml]

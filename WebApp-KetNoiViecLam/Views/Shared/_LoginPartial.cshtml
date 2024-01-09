@@ -1,0 +1,31 @@
+﻿@using Microsoft.AspNetCore.Identity
+@using UserIdentity.Areas.Identity.Data
+
+@inject SignInManager<ApplicationUser> SignInManager
+@inject UserManager<ApplicationUser> UserManager
+
+@{
+    var isAuthenticated = Context.User.Identity.IsAuthenticated;
+}
+
+<div class="user-section">
+    @if (isAuthenticated)
+    {
+        <!-- Hiển thị thông tin người dùng đã đăng nhập -->
+        <div class="user-profile">
+            <span class="user-name">Hello, @UserManager.GetUserName(User)!</span>
+            <a href="https://localhost:7117/Identity/Account/Manage" class="btn btn-primary">Quản lý tài khoản</a>
+            <form id="logoutForm" class="form-inline" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                <button id="logout" type="submit" class="btn btn-secondary">Đăng Xuất</button>
+            </form>
+        </div>
+    }
+    else
+    {
+        <!-- Hiển thị nút đăng nhập và đăng ký nếu chưa đăng nhập -->
+        <div class="login-section">
+            <a href="https://localhost:7117/Identity/Account/Login" class="btn btn-primary">Đăng Nhập</a>
+            <a href="https://localhost:7117/Identity/Account/Register" class="btn btn-secondary">Đăng Ký</a>
+        </div>
+    }
+</div>
