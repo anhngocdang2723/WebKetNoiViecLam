@@ -116,7 +116,7 @@ namespace UserIdentity.Areas.Identity.Pages.Account
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+                    return Redirect("https://localhost:7055/");
                 }
                 if (result.RequiresTwoFactor)
                 {

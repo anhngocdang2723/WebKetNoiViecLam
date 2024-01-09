@@ -1,0 +1,30 @@
+﻿@model IEnumerable<WebApp_KetNoiViecLam.Models.Job>
+
+@foreach (var item in Model)
+{
+    <tr>
+        <th scope="row">
+            <div class="freelancer-style1 p-0 mb-0 box-shadow-none">
+                <div class="d-lg-flex align-items-lg-center">
+                    <div class="thumb w60 position-relative rounded-circle mb15-md">
+                        <img class="rounded-circle mx-auto" src="~/images/team/client-2.png" alt="">
+                        <span class="online-badge2"></span>
+                    </div>
+                    <div class="details ml15 ml0-md mb15-md">
+                        <h5 class="title mb-2">@item.JobTitle</h5>
+                        <h6 class="mb-0 text-thm">@Html.DisplayFor(modelItem => item.Category.CatName)</h6>
+                    </div>
+                </div>
+            </div>
+        </th>
+        <td class="vam"><span class="fz15 fw400">@string.Format("{0:0.00}VND/Fixed", item.Budget)</span></td>
+        <td class="vam">From-<span>@item.DateCreated.ToString("MMMM dd, yyyy")</span><br>To-<span class="fz14 fw400">@item.Deadline.ToString("MMMM dd, yyyy")</span></td>
+        <td class="vam"><span class="pending-style style6">Active</span></td>
+        <td>
+            <div class="d-flex">
+                <a href="" class="icon me-2" data-bs-toggle="tooltip" data-bs-placement="top" title="Edit"><span class="flaticon-pencil"></span></a>
+                <a href="" class="icon" data-bs-toggle="tooltip" data-bs-placement="top" title="Delete"><span class="flaticon-delete"></span></a>
+            </div>
+        </td>
+    </tr>
+}
