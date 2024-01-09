@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Blogs/PageBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ3NcUGFnZUJsb2cuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -170,6 +174,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/Components/Category/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/Components/PageBlog/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUGFnZUJsb2dcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/WebApp-KetNoiViecLam/WebKetNoiViecLam/WebApp-KetNoiViecLam/Views/Shared/Components/PopularService/Default.cshtml]

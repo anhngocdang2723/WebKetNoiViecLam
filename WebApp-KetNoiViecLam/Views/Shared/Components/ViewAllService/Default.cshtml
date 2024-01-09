@@ -26,7 +26,7 @@
                                                         <p class="list-text body-color fz14 mb-1">@category.CatName</p>
                                                     }
                                                 }
-                                                <h5 class="list-title"><a href="/Services/Details/@service.UserId">@service.ServiceTitle</a></h5>
+                                                <h5 class="list-title"><a href="@Url.Action("Details", "Services", new { id = service.ServiceId })">@service.ServiceTitle</a></h5>
                                                 @foreach (var review in Model.Reviews)
                                                 {
                                                     if (review.UserId == service.UserId)

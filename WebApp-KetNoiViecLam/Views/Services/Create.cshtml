@@ -1,50 +1,64 @@
 ﻿@model WebApp_KetNoiViecLam.Models.Service
 
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Thêm dịch vụ";
     Layout = "~/Views/Shared/_UserDashboard.cshtml";
 }
 
-<h1>Create</h1>
+<h2>Đăng tải dịch vụ mới</h2>
 
-<h4>Service</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <!-- CategoryId -->
             <div class="form-group">
                 <label asp-for="CategoryId" class="control-label"></label>
-                <select asp-for="CategoryId" class ="form-control" asp-items="ViewBag.CategoryId"></select>
+                <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
             </div>
+
+            <!-- ServiceTitle -->
             <div class="form-group">
                 <label asp-for="ServiceTitle" class="control-label"></label>
                 <input asp-for="ServiceTitle" class="form-control" />
                 <span asp-validation-for="ServiceTitle" class="text-danger"></span>
             </div>
+
+            <!-- ServiceDes -->
             <div class="form-group">
                 <label asp-for="ServiceDes" class="control-label"></label>
                 <input asp-for="ServiceDes" class="form-control" />
                 <span asp-validation-for="ServiceDes" class="text-danger"></span>
             </div>
+
+            <!-- SkillId -->
             <div class="form-group">
                 <label asp-for="SkillId" class="control-label"></label>
-                <select asp-for="SkillId" class ="form-control" asp-items="ViewBag.SkillId"></select>
+                <select asp-for="SkillId" class="form-control" asp-items="ViewBag.SkillId"></select>
             </div>
+
+            <!-- DateCreated -->
             <div class="form-group">
                 <label asp-for="DateCreated" class="control-label"></label>
                 <input asp-for="DateCreated" class="form-control" />
                 <span asp-validation-for="DateCreated" class="text-danger"></span>
             </div>
+
+            <!-- Price -->
             <div class="form-group">
                 <label asp-for="Price" class="control-label"></label>
                 <input asp-for="Price" class="form-control" />
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
-            <div class="form-group">
+
+            <!-- UserId -->
+            <div class="form-group" style="display: none;">
                 <label asp-for="UserId" class="control-label"></label>
-                <select asp-for="UserId" class ="form-control" asp-items="ViewBag.UserId"></select>
+                <input asp-for="UserId" class="form-control" value="1" />
             </div>
+
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
@@ -52,6 +66,12 @@
     </div>
 </div>
 
+<div>
+    <a asp-action="~/UserDashboard/ManageService" class="btn btn-secondary">Back to List</a>
+</div>
+
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

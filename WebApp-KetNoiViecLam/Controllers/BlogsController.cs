@@ -19,14 +19,12 @@ namespace WebApp_KetNoiViecLam.Controllers
             _context = context;
         }
 
-        // GET: Blogs
         public async Task<IActionResult> Index()
         {
             var webApp_KetNoiViecLamContext = _context.Blog.Include(b => b.User);
             return View(await webApp_KetNoiViecLamContext.ToListAsync());
         }
 
-        // GET: Blogs/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Blog == null)
@@ -45,16 +43,12 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(blog);
         }
 
-        // GET: Blogs/Create
         public IActionResult Create()
         {
             ViewData["UserId"] = new SelectList(_context.Set<User>(), "UserId", "Email");
             return View();
         }
 
-        // POST: Blogs/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("BlogId,BlogTitle,Content,UserId")] Blog blog)
@@ -63,13 +57,12 @@ namespace WebApp_KetNoiViecLam.Controllers
             {
                 _context.Add(blog);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("PageBlog", "Blogs");
             }
             ViewData["UserId"] = new SelectList(_context.Set<User>(), "UserId", "Email", blog.UserId);
             return View(blog);
         }
 
-        // GET: Blogs/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Blog == null)
@@ -86,9 +79,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(blog);
         }
 
-        // POST: Blogs/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("BlogId,BlogTitle,Content,UserId")] Blog blog)
@@ -122,7 +112,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(blog);
         }
 
-        // GET: Blogs/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Blog == null)
@@ -141,7 +130,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(blog);
         }
 
-        // POST: Blogs/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
@@ -159,7 +147,10 @@ namespace WebApp_KetNoiViecLam.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
+        public IActionResult PageBlog()
+        {
+            return View();
+        }
         private bool BlogExists(int id)
         {
           return (_context.Blog?.Any(e => e.BlogId == id)).GetValueOrDefault();

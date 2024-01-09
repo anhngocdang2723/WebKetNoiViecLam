@@ -18,7 +18,6 @@ namespace UserIdentity.Controllers
         {
             return View();
         }
-        [Authorize(Roles = "0")]
         public IActionResult Privacy()
         {
             return View();

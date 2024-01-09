@@ -17,7 +17,7 @@
                     <div class="tab-content ha" id="pills-tabContent">
                         <div class="tab-pane fade fz15 text show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
                             <div class="row">
-                                @foreach (var service in Model.Services)
+                                @foreach (var service in Model.Services.Where(s => s.Status == ServiceStatus.DaDuyet))
                                 {
                                     <div class="col-sm-6 col-xl-3">
                                         <div class="listing-style1 bdrs16">

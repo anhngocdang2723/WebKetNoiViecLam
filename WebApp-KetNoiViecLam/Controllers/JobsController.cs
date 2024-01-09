@@ -19,7 +19,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             _context = context;
         }
 
-        // GET: Jobs
         public async Task<IActionResult> Index()
         {
             var webApp_KetNoiViecLamContext = _context.Job.Include(j => j.Category).Include(j => j.Skill).Include(j => j.User);
@@ -29,7 +28,6 @@ namespace WebApp_KetNoiViecLam.Controllers
         {
             return View();
         }
-        // GET: Jobs/UserViewDetails/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Job == null)
@@ -50,7 +48,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(job);
         }
 
-        // GET: Jobs/Details/5
         public async Task<IActionResult> Details1(int? id)
         {
             if (id == null || _context.Job == null)
@@ -71,7 +68,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(job);
         }
 
-        // GET: Jobs/Create
         public IActionResult Create()
         {
             ViewData["CategoryId"] = new SelectList(_context.Category, "CatId", "CatName");
@@ -80,18 +76,17 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View();
         }
 
-        // POST: Jobs/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("JobId,CategoryId,JobTitle,JobDes,SkillId,DateCreated,Budget,Deadline,UserId")] Job job)
         {
             if (ModelState.IsValid)
             {
+                job.UserId = 1;
+
                 _context.Add(job);
                 await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("ManageJob", "UserDashboard");
             }
             ViewData["CategoryId"] = new SelectList(_context.Category, "CatId", "CatName", job.CategoryId);
             ViewData["SkillId"] = new SelectList(_context.Set<Skill>(), "SkillId", "SkillName", job.SkillId);
@@ -99,7 +94,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(job);
         }
 
-        // GET: Jobs/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Job == null)
@@ -118,9 +112,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(job);
         }
 
-        // POST: Jobs/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("JobId,CategoryId,JobTitle,JobDes,SkillId,DateCreated,Budget,Deadline,UserId")] Job job)
@@ -156,7 +147,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(job);
         }
 
-        // GET: Jobs/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Job == null)
@@ -176,8 +166,6 @@ namespace WebApp_KetNoiViecLam.Controllers
 
             return View(job);
         }
-
-        // POST: Jobs/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

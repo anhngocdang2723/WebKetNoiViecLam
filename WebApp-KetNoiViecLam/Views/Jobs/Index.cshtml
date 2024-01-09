@@ -7,9 +7,7 @@
 
 <h1>Quản lý công việc</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+
 <table class="table">
     <thead>
         <tr>
@@ -68,9 +66,8 @@
                 @Html.DisplayFor(modelItem => item.User.Email)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.JobId">Sửa</a> |
                 <a asp-action="Details1" asp-route-id="@item.JobId">Thông tin</a> |
-                <a asp-action="Delete" asp-route-id="@item.JobId">Ẩn</a>
+                <a asp-action="Delete" asp-route-id="@item.JobId">Xoá</a>
             </td>
         </tr>
 }

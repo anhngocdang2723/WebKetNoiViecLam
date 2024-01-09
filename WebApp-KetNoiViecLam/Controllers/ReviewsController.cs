@@ -19,14 +19,12 @@ namespace WebApp_KetNoiViecLam.Controllers
             _context = context;
         }
 
-        // GET: Reviews
         public async Task<IActionResult> Index()
         {
             var webApp_KetNoiViecLamContext = _context.Review.Include(r => r.User);
             return View(await webApp_KetNoiViecLamContext.ToListAsync());
         }
 
-        // GET: Reviews/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Review == null)
@@ -45,16 +43,12 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(review);
         }
 
-        // GET: Reviews/Create
         public IActionResult Create()
         {
             ViewData["UserId"] = new SelectList(_context.Set<User>(), "UserId", "Email");
             return View();
         }
 
-        // POST: Reviews/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ReviewId,Rating,Comment,UserId")] Review review)
@@ -69,7 +63,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(review);
         }
 
-        // GET: Reviews/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Review == null)
@@ -86,9 +79,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(review);
         }
 
-        // POST: Reviews/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ReviewId,Rating,Comment,UserId")] Review review)
@@ -122,7 +112,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(review);
         }
 
-        // GET: Reviews/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Review == null)
@@ -141,7 +130,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(review);
         }
 
-        // POST: Reviews/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

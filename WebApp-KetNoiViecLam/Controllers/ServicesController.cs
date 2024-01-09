@@ -19,7 +19,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             _context = context;
         }
 
-        // GET: Services
         public async Task<IActionResult> Index()
         {
             var webApp_KetNoiViecLamContext = _context.Service.Include(s => s.Category).Include(s => s.Skill).Include(s => s.User);
@@ -31,7 +30,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View();
         }
 
-        // GET: Services/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Service == null)
@@ -51,7 +49,6 @@ namespace WebApp_KetNoiViecLam.Controllers
 
             return View(service);
         }
-        // GET: Services/Details1/5
         public async Task<IActionResult> Details1(int? id)
         {
             if (id == null || _context.Service == null)
@@ -72,7 +69,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(service);
         }
 
-        // GET: Services/Create
         public IActionResult Create()
         {
             ViewData["CategoryId"] = new SelectList(_context.Category, "CatId", "CatName");
@@ -82,21 +78,19 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View();
         }
 
-        // POST: Services/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("ServiceId,CategoryId,ServiceTitle,ServiceDes,SkillId,DateCreated,Price,UserId,Status")] Service service)
         {
             if (ModelState.IsValid)
             {
+                service.UserId = 1;
+
                 _context.Add(service);
                 await _context.SaveChangesAsync();
                 return RedirectToAction("ManageService", "UserDashboard");
             }
 
-            // Repopulate dropdowns in case of validation error
             ViewData["CategoryId"] = new SelectList(_context.Category, "CatId", "CatName", service.CategoryId);
             ViewData["SkillId"] = new SelectList(_context.Set<Skill>(), "SkillId", "SkillName", service.SkillId);
             ViewData["UserId"] = new SelectList(_context.Set<User>(), "UserId", "Email", service.UserId);
@@ -105,7 +99,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(service);
         }
 
-        // GET: Services/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Service == null)
@@ -125,9 +118,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(service);
         }
 
-        // POST: Services/Edit/5x
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("ServiceId,CategoryId,ServiceTitle,ServiceDes,SkillId,DateCreated,Price,UserId,Status")] Service service)
@@ -206,7 +196,6 @@ namespace WebApp_KetNoiViecLam.Controllers
         }
 
 
-        // GET: Services/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Service == null)
@@ -227,7 +216,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(service);
         }
 
-        // POST: Services/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
