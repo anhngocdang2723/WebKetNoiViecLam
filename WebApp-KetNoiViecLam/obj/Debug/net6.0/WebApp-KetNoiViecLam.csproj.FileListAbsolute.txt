@@ -1434,3 +1434,9 @@ D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\obj\Debug\net6.0\r
 D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\obj\Debug\net6.0\WebApp-KetNoiViecLam.pdb
 D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\obj\Debug\net6.0\WebApp-KetNoiViecLam.genruntimeconfig.cache
 D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\obj\Debug\net6.0\ref\WebApp-KetNoiViecLam.dll
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.deps.json
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.runtimeconfig.json
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.staticwebassets.runtime.json
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.exe
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.dll
+D:\WebApp-KetNoiViecLam\WebKetNoiViecLam\WebApp-KetNoiViecLam\bin\Debug\net6.0\UserIdentity.pdb

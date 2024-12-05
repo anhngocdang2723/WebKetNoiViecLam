@@ -7,6 +7,7 @@ namespace UserIdentity.Data;
 
 public class UserIdentityContext : IdentityDbContext<ApplicationUser>
 {
+
     public UserIdentityContext(DbContextOptions<UserIdentityContext> options)
         : base(options)
     {

@@ -19,7 +19,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             _context = context;
         }
 
-        // GET: Skills
         public async Task<IActionResult> Index()
         {
               return _context.Skill != null ? 
@@ -27,7 +26,6 @@ namespace WebApp_KetNoiViecLam.Controllers
                           Problem("Entity set 'WebApp_KetNoiViecLamContext.Skill'  is null.");
         }
 
-        // GET: Skills/Details/5
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null || _context.Skill == null)
@@ -45,15 +43,11 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(skill);
         }
 
-        // GET: Skills/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Skills/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("SkillId,SkillName,IsActive")] Skill skill)
@@ -67,7 +61,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(skill);
         }
 
-        // GET: Skills/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
             if (id == null || _context.Skill == null)
@@ -83,9 +76,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(skill);
         }
 
-        // POST: Skills/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to.
-        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("SkillId,SkillName,IsActive")] Skill skill)
@@ -117,8 +107,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             }
             return View(skill);
         }
-
-        // GET: Skills/Delete/5
         public async Task<IActionResult> Delete(int? id)
         {
             if (id == null || _context.Skill == null)
@@ -136,7 +124,6 @@ namespace WebApp_KetNoiViecLam.Controllers
             return View(skill);
         }
 
-        // POST: Skills/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)

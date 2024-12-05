@@ -4,11 +4,11 @@ using WebApp_KetNoiViecLam.Models;
 
 namespace WebApp_KetNoiViecLam.Controllers
 {
-    public class HomeController : Controller
+    public class HomeWebController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<HomeWebController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeWebController(ILogger<HomeWebController> logger)
         {
             _logger = logger;
         }

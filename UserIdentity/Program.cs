@@ -19,11 +19,22 @@ var connectionString = builder.Configuration.GetConnectionString("UserIdentityCo
 builder.Services.AddDbContext<UserIdentityContext>(options =>
     options.UseSqlServer(connectionString));
 
+//builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+//    .AddEntityFrameworkStores<UserIdentityContext>();
+
+//builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+//    .AddEntityFrameworkStores<UserIdentityContext>();
+
 // Identity Configuration
-builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
+builder.Services.AddIdentity<ApplicationUser, IdentityRole>()
     .AddEntityFrameworkStores<UserIdentityContext>()
-    .AddDefaultUI()
-    .AddDefaultTokenProviders();
+            .AddDefaultUI()
+            .AddDefaultTokenProviders();
+
+builder.Services.AddAuthorization(options =>
+{
+    options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("Admin"));
+});
 
 // MVC and Routing Configuration
 builder.Services.AddControllersWithViews();
